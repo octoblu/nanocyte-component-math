@@ -10,7 +10,6 @@ MathOperations =
   'exp': Math.exp
   'floor': Math.floor
   'log': Math.log
-  'pow': Math.pow
   'round': Math.round
   'sign': Math.sign
   'sin': Math.sin
